@@ -241,6 +241,7 @@ header {
 }
 
 .buttons {
+    height: 2em;
     margin: 0 auto;
     width: 70%;
     margin-bottom: 1em;
