@@ -316,6 +316,10 @@ footer {
         cursor: pointer;
     }
 
+    .submenu i {
+        margin-right: 0;
+    }
+
     .submenu h3 {
         display: none;
     }
