@@ -436,6 +436,11 @@ footer {
         margin-bottom: 3em;
     }
 
+    .product:hover {
+        background-color: #F5F5F5;
+        transform: translateY(0em) scale(1);
+    }
+
     .product p {
         font-size: 1em;
     }
